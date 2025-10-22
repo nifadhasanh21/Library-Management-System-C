@@ -1,1 +1,13 @@
+# Compiled files
+*.o
+*.exe
+*.out
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
 
