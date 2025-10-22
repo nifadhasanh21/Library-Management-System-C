@@ -82,7 +82,7 @@ int main() {
             case 3: listBooksByAuthor(books, bookCount); break;
             case 4: searchBookByTitle(books, bookCount); break;
             case 5: return 0;
-            default: printf("\nInvalid choice! Try again.");
+            default: printf("\nInvalid choice! Try again!");
         }
     }
 }
