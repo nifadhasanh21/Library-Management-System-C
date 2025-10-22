@@ -7,19 +7,75 @@ This system helps manage books, students, and borrowing records in a structured 
 
 🚀 Features
 
-1. User Registration & Login System (Admin, Student)
+1. Add New Books
 
-2. Add, Delete, and View Books
 
-3. Borrow and Return Books
+      Easily insert book details such as title, author, number of pages, and price.
 
-4. Search Books by Title or Author
 
-5. Billing and Fine Calculation
+      Automatically stores books in memory (array-based system).
 
-6. Random Book Display Feature
 
-7. In-Memory Data Handling (No File Storage)
+2. Display All Books
+
+
+      View a complete list of all available books in the library.
+
+
+      Displays book name, author, total pages, and price neatly formatted.
+
+
+3. Search Books by Author
+
+
+      Find all books written by a specific author.
+
+
+      Useful for quickly locating all works by a particular writer.
+
+
+4. Search Book by Title
+
+
+      Look up a single book by its name.
+
+
+      Instantly retrieves book details like author, pages, and price.
+
+
+5. User-Friendly Menu System
+
+
+      Simple text-based interface for smooth navigation.
+
+
+      Easy to use for both beginners and testers.
+
+
+6. Dynamic Book Storage (In-Memory)
+
+
+      Supports up to 100 books (can be increased via MAX_BOOKS constant).
+
+
+      No external file storage — ideal for quick testing and lab demonstrations.
+
+
+7. Input Validation (Basic)
+
+
+      Prevents invalid menu selections with an “Invalid choice” warning.
+
+
+8. Structured Programming Approach
+
+
+      Implements modular design using functions and structures (struct library).
+
+      Enhances readability, reusability, and maintainability of code.
+
+
+
 
 🧩 Technologies Used
 
@@ -40,6 +96,7 @@ Compile & Run the code.
 📄 Course Information
 
 
+
 Course: Structured Programming Lab (SE 121)
 
 Instructor: Suprove Chandra Sarker
@@ -50,7 +107,9 @@ Department: Software Engineering, DIU
 
 
 
+
 🧑‍💻 Author
+
 
 
 👤 Nifad Hasan Eimu
