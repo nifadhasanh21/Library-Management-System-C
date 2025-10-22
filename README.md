@@ -7,19 +7,19 @@ This system helps manage books, students, and borrowing records in a structured 
 
 🚀 Features
 
-User Registration & Login System (Admin, Student)
+1. User Registration & Login System (Admin, Student)
 
-Add, Delete, and View Books
+2. Add, Delete, and View Books
 
-Borrow and Return Books
+3. Borrow and Return Books
 
-Search Books by Title or Author
+4. Search Books by Title or Author
 
-Billing and Fine Calculation
+5. Billing and Fine Calculation
 
-Random Book Display Feature
+6. Random Book Display Feature
 
-In-Memory Data Handling (No File Storage)
+7. In-Memory Data Handling (No File Storage)
 
 🧩 Technologies Used
 
@@ -39,22 +39,33 @@ Compile & Run the code.
 
 📄 Course Information
 
+
 Course: Structured Programming Lab (SE 121)
+
 Instructor: Suprove Chandra Sarker
+
 Semester: 2nd Semester
+
 Department: Software Engineering, DIU
+
 
 
 🧑‍💻 Author
 
+
 👤 Nifad Hasan Eimu
+
 🎓 B.Sc. in Software Engineering
+
 🏫 Daffodil International University
+
 🌐 https://www.nifadhasan.com/
 
 📧 nifadhasan21@gmail.com
 
 
+
 🪪 License
+
 
 This project is licensed under the MIT License.
