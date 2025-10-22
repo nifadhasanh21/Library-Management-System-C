@@ -50,7 +50,7 @@ Department: Software Engineering, DIU
 👤 Nifad Hasan Eimu
 🎓 B.Sc. in Software Engineering
 🏫 Daffodil International University
-🌐 nifadhasan.com
+🌐 https://www.nifadhasan.com/
 
 📧 nifadhasan21@gmail.com
 
